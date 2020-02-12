@@ -1,0 +1,16 @@
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\1_excel02.exe.config
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\1_excel02.exe
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\1_excel02.pdb
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\NPOI.dll
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\obj\Debug\1_excel02.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\obj\Debug\_1_excel02.Form1.resources
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\obj\Debug\_1_excel02.Properties.Resources.resources
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\obj\Debug\1_excel02.csproj.GenerateResource.Cache
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\obj\Debug\1_excel02.exe
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\1_excel02\1_excel02\obj\Debug\1_excel02.pdb
+E:\github\1_excel02\1_excel02\bin\Debug\1_excel02.exe.config
+E:\github\1_excel02\1_excel02\obj\Debug\1_excel02.exe
+E:\github\1_excel02\1_excel02\obj\Debug\1_excel02.pdb
